@@ -22,6 +22,6 @@ I'm Astha
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 ## 📊 GitHub Stats
-![Astha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Astha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astha84&show_icons=true&theme=tokyonight)
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)-->
