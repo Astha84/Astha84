@@ -1,5 +1,5 @@
 # Hello World! 👋  
-I'm Astha — a passionate Java lover and aspiring Full Stack Developer from India 🇮🇳
+I'm Astha — a passionate Java lover and aspiring Full Stack Developer from India
 
 ---
 
@@ -9,7 +9,7 @@ I'm Astha — a passionate Java lover and aspiring Full Stack Developer from Ind
 - 💻 Currently learning Full Stack Development  
 - 🌱 Always curious about scalable backend systems  
 - 🧠 Favorite language: **Java** 💖  
-- ⚡ Fun fact: I love debugging more than writing code 😉
+
 
 ---
 
