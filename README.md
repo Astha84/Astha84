@@ -8,7 +8,6 @@ I'm Astha — a passionate Java lover and aspiring Full Stack Developer from Ind
 - 🎓 B.Tech Student | Tech enthusiast  
 - 💻 Currently learning Full Stack Development  
 - 🌱 Always curious about scalable backend systems  
-- 🧠 Favorite language: **Java** 💖  
 
 
 ---
