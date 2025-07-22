@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello World! 👋  
+I'm Astha 
+## 🌟 About Me
+- 🎓 Student from India
+- 💻 Learning Full Stack Development
+- 🌈 Love Java, SpringBoot, React, Git
 
-<!--
-**Astha84/Astha84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/astha-bharti)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://instagram.com/astha.rya_)
 
-Here are some ideas to get you started:
+## 🧰 My Toolbox
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Astha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
