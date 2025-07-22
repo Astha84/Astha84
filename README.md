@@ -60,7 +60,7 @@ I'm Astha — a passionate Java lover and aspiring Full Stack Developer from Ind
 
 ## 📊 GitHub Stats
 
-![Astha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astha404&show_icons=true&theme=tokyonight)
+![Astha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astha&show_icons=true&theme=tokyonight)
 
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)-->
